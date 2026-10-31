@@ -1,0 +1,7 @@
+{
+  "name": "buhgalter-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Бухгалтер — демо-версія з готовими даними, зміни живуть лише у вкладці",
+  "engines": { "node": ">=20" }
+}

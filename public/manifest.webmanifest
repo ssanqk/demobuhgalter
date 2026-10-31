@@ -1,0 +1,10 @@
+{
+  "name": "Бухгалтер · демо",
+  "short_name": "Бухгалтер",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E3E0D9",
+  "theme_color": "#52666A",
+  "lang": "uk",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
